@@ -1,0 +1,8 @@
+C:\GitHub\PacMan\bin\Debug\PacMan.exe.config
+C:\GitHub\PacMan\bin\Debug\PacMan.exe
+C:\GitHub\PacMan\bin\Debug\PacMan.pdb
+C:\GitHub\PacMan\obj\Debug\PacMan.csproj.AssemblyReference.cache
+C:\GitHub\PacMan\obj\Debug\PacMan.csproj.SuggestedBindingRedirects.cache
+C:\GitHub\PacMan\obj\Debug\PacMan.csproj.CoreCompileInputs.cache
+C:\GitHub\PacMan\obj\Debug\PacMan.exe
+C:\GitHub\PacMan\obj\Debug\PacMan.pdb
